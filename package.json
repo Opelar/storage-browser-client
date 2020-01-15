@@ -1,0 +1,25 @@
+{
+  "name": "storage-browser-client",
+  "version": "1.0.0",
+  "description": "localStorage sessionStorage ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Opelar/storage-browser-client.git"
+  },
+  "keywords": [
+    "sessionStorage",
+    "localStorage",
+    "browser",
+    "client"
+  ],
+  "author": "opelar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Opelar/storage-browser-client/issues"
+  },
+  "homepage": "https://github.com/Opelar/storage-browser-client#readme"
+}
